@@ -1,3 +1,10 @@
+# Profit Calculator
+A simple cross platform mobile application built using ionic framework to calculate profit of partners using a fixed ratio.
+
+## Getting Started
+Make sure you have `nodejs`, `npm` and `ionic cordova` installed befor continuing with this project.
+More instructions can be found on [Ionic](http://ionicframework.com/docs/).
+
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
 
 ## How to use this template
